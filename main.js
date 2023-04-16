@@ -1,0 +1,9 @@
+console.log('nastaran');
+console.log('nastaran');
+console.log(
+  'nahhhhhhhhgrggggggggggggrgrgrgregreregergegergehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhrgstaran',
+);
+console.log('valizade');
+console.log(
+  'ejfffffffffffffffffffffhhhhhhhhhhhhhhhhhhhhhhifnorrrrrrrroooooefsnkpooooooooooooq',
+);
